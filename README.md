@@ -1,2 +1,0 @@
-# kaantutall.github.io
-Computer
